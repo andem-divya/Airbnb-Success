@@ -3,8 +3,14 @@ __pycache__/
 *.py[codz]
 *$py.class
 **/.DS_Store
+
 # C extensions
 *.so
+
+# Ignore the large original data folders
+data/raw/
+data/preprocessed/
+
 
 # Distribution / packaging
 .Python
