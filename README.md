@@ -26,24 +26,25 @@ To maintain a lightweight repository, this project includes **sample datasets (~
 │   │   └── walkability/     # National Walkability Index sample
 │   └── preprocessed_sample/ # SAMPLE DATA - Feature-engineered outputs
 │
-|
 ├── src/                     # Python scripts for data processing
-│   
 ├── notebooks/               # Jupyter notebooks for analysis
-|   ├── Data Preprocessing + EDA.ipynb    # Data Cleaning and Merging
-|   ├── Part A Supervised Learning.ipynb  # Linear Models & Regularization
+│   ├── Data Preprocessing + EDA.ipynb    # Data Cleaning and Merging
+│   ├── Part A Supervised Learning.ipynb  # Linear Models & Regularization
 │   ├── Part A2 KNN Trees.ipynb           # KNN and Tree-based Models
 │   └── Part B Unsupervised Learning.ipynb # Clustering and Segmentation
-│   
+│
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+```
 
 ---
 
-### Environment Setup
+## Environment Setup
 
-*   Python 3.12
+* Python 3.12
 
-*   Install required Python packages:
+* Install required Python packages:
 
-    `pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
