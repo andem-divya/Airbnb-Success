@@ -16,9 +16,11 @@ https://drive.google.com/your-link-here
 
 The Google Drive folder already mirrors the expected project structure:
 
+```text
 data/
 ├── raw/
 ├── preprocessed/
+```
 
 ### To Run the Full Analysis
 
