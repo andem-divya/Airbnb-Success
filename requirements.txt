@@ -57,3 +57,4 @@ wcwidth==0.5.0
 xgboost==3.2.0
 plotly==5.22.0
 nbformat>=4.2.0
+osmnx
