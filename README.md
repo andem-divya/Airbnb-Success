@@ -9,9 +9,9 @@ To maintain a lightweight repository, this project includes **sample datasets (~
 
 **To run the full analysis:**
 1. Download the full datasets from their original sources (Census Bureau, FBI, Inside Airbnb).
-2. Create a local directory named `data/raw/` (this folder is ignored by Git).
+2. Create a local directory named `data/raw/`, `data/preprocessed/` (this folder is ignored by Git).
 3. Place the full files into the respective subfolders.
-4. Update the file paths in the notebooks from `_sample` to the full data paths.
+4. Update the file paths in the notebooks if required.
 
 ---
 
