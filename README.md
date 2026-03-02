@@ -7,15 +7,29 @@ This project analyzes Airbnb listings across various neighborhoods to predict Re
 ## 📊 Data & Samples
 To maintain a lightweight repository, this project includes **sample datasets (~100 rows each)**. These allow you to test the code logic without the overhead of the full 1.6 GB dataset.
 
-**To run the full analysis:**
-1. Download the full datasets from their original sources (Census Bureau, FBI, Inside Airbnb).
-2. Create a local directory named `data/raw/`, `data/preprocessed/` (this folder is ignored by Git).
-3. Place the full files into the respective subfolders.
-4. Update the file paths in the notebooks if required.
+### 📦 Full Dataset
+
+Due to GitHub size limitations, the complete dataset is hosted externally.
+
+**Download full structured dataset (Google Drive):**  
+https://drive.google.com/your-link-here
+
+The Google Drive folder already mirrors the expected project structure:
+
+data/
+├── raw/
+├── preprocessed/
+
+### To Run the Full Analysis
+
+1. Download the Google Drive folder.
+2. Place the entire `data/` folder into the project root directory.
+3. Ensure it sits alongside `src/`, `notebooks/`, and `README.md`.
+4. Run the notebooks as usual.
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 ```text
 ├── data/
 │   ├── raw_sample/          # SAMPLE DATA (100 rows) - Pushed to GitHub
@@ -39,7 +53,7 @@ To maintain a lightweight repository, this project includes **sample datasets (~
 
 ---
 
-## Environment Setup
+## ⚙️ Environment Setup
 
 * Python 3.12
 
