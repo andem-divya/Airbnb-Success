@@ -12,7 +12,7 @@ To maintain a lightweight repository, this project includes **sample datasets (~
 Due to GitHub size limitations, the complete dataset is hosted externally.
 
 **Download full structured dataset (Google Drive):**  
-https://drive.google.com/your-link-here
+[Download Full Dataset](https://drive.google.com/drive/folders/1aXCUeh5X_QFl0poqNo8bH_zcg-qRQBDp?usp=sharing)
 
 The Google Drive folder already mirrors the expected project structure:
 
