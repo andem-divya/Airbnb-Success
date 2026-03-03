@@ -50,7 +50,8 @@ data/
 │   └── Part B Unsupervised Learning.ipynb # Clustering and Segmentation
 │
 ├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+├── README.md                # Project documentation
+└── Milestone 2 Final Report Airbnb Success.pdf       # Final project report / analysis
 ```
 
 ---
