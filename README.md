@@ -65,3 +65,8 @@ data/
 ```
 pip install -r requirements.txt
 ```
+
+## Authors
+* Divya Andem - divyaand@umich.edu
+* Jordan Huang - jordanhu@umich.edu
+* Sophia Settle - sosettle@umich.edu
